@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT catalog (employee+)>
+<!ELEMENT employee (name, age, role, gender)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT role (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>

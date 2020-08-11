@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE catalog SYSTEM "employee.dtd">
+<catalog>
+   	<employee>
+		<name>Pankaj</name>
+		<age>29</age>
+		<role>Java Developer</role>
+		<gender>Male</gender>
+	</employee>
+	<employee>
+		<name>Deeraj</name>
+		<age>25</age>
+		<role>Automation Tester</role>
+		<gender>Male</gender>
+	</employee>
+	<employee>
+		<name>Krithaj</name>
+		<age>27</age>
+		<role>Front-end Developer</role>
+		<gender>Male</gender>
+	</employee>
+</catalog>
